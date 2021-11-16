@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/drawable/profile.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_android.xml" value="0.6666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_experience.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_experience_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_flutter.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_profile.xml" value="0.1721014492753623" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_setting.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/fragment_ui_ux.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/item_android.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/item_experience.xml" value="0.41189931350114417" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/Portofolio/app/src/main/res/menu/navdrawer_menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
